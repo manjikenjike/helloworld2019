@@ -16,8 +16,8 @@
 
 <div align="center">
 <a href="index.html">Index</a> |
-<a href="Nurse.html">Nurse</a> |
-<a href="IT.html">IT</a> |
+<a href="Nurse.html">Linux Ad</a> |
+<a href="IT.html">Devops</a> |
 <a href="Resources.html">Resources</a>
 </div>
 
