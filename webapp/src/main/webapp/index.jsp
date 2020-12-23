@@ -1,6 +1,32 @@
-<h1> Hello, Welcome to Simple DevOps Project !!!  </h1>
-<h2> Deploying on container using ansible playbooks </h2>
-<h2> I'm loving this Devops program </h2>
+<!DOCTYPE html>
+ 
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <meta name="description" >
+      <title> My website </title>
+
+    </head>
+        <body style="background-color:lightblue">
+     <header>
+       
+<h1> Linus Admin Job vs. Devops Engineering Job </h1>
+   <hr/>
+<nav>
+
+<div align="center">
+<a href="index.html">Index</a> |
+<a href="Nurse.html">Nurse</a> |
+<a href="IT.html">IT</a> |
+<a href="Resources.html">Resources</a>
+</div>
+
+</nav>
+</header>     
+<p style="color:red; ">WELCOME TO MY PAGE  </p>
+
+
+<p style="color:blue;">Click on each link above to follow the website </p>
 
 
 
